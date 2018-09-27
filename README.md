@@ -1,4 +1,5 @@
 # WaterSimulation
 Attempt at simulating water
 
-Download file and run executable for your operating system
+
+Download file and use executable for corresponding operating sytem
